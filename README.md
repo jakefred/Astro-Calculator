@@ -20,6 +20,7 @@ Built with HTML, CSS, and vanilla JavaScript, this project demonstrates DOM mani
 Note: Images were taken from NASA's open source library which allows use of the images for educational or informational purposes which extends to personal web pages. 
 
 [NASA Image and Video Library](https://images.nasa.gov/)
+
 [NASA Images and Media Usage Guidelines](https://www.nasa.gov/nasa-brand-center/images-and-media/)
 
 ## Run locally
